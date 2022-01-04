@@ -1,5 +1,5 @@
 # BookStoreAPI-Backend
-</br>This is Backend of My BookStore Project,![360_F_317254576_lKDALRrvGoBr7gQSa1k4kJBx7O2D15dc]
+</br>This is Backend of My BookStore Project,
 </br>This Project is made as an ASP.NET Core Web API project, I am using Identity Core for user login and signup while SQL Server for the database part.
 </br>I have designed the database as Code first Approach using EntityFramework. 
 </br>Java Web Tokens are also used in the project for Authentication purposes.
