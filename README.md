@@ -1,9 +1,9 @@
 # BookStoreAPI-Backend
-This is Backend of My BookStore Project
-This Project is made as an ASP.NET Core Web API project, I am using Identity Core for user login and signup while   SQL Server for the database part.
-I have designed the database as Code first Approach using EntityFramework. 
-Java Web Tokens are also used in the project for Authentication purposes.
-Added All CRUD MEthods To Books Controller to Manage Books
+</br>This is Backend of My BookStore Project,
+</br>This Project is made as an ASP.NET Core Web API project, I am using Identity Core for user login and signup while SQL Server for the database part.
+</br>I have designed the database as Code first Approach using EntityFramework. 
+</br>Java Web Tokens are also used in the project for Authentication purposes.
+</br>Added All CRUD MEthods To Books Controller to Manage Books
 
                                                     Services Added
 <img width="960" alt="Screen Shot 2022-01-04 at 2 46 58 AM" src="https://user-images.githubusercontent.com/59952831/148026036-567a8fd4-6761-4cb2-af86-fb250e7906eb.png">
